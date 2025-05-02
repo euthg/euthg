@@ -25,7 +25,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0071BC&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Systems+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -44,7 +44,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=euthg&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=euthg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&font=Iosevka"
   />
   <img
     height=165
